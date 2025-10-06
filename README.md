@@ -61,7 +61,7 @@ Analisar o desempenho comercial por meio de indicadores-chave, identificando:
 
 ---
 
-## 🧰 Stack / Ferramentas  
+## 🧰 Stack
 
 * 💻 **Microsoft Power BI Desktop**  
 * ⚙️ **Power Query**  
