@@ -40,6 +40,27 @@ Analisar o desempenho comercial por meio de indicadores-chave, identificando:
 
 ---
 
+## 📊 Visualizações Utilizadas  
+
+Cada gráfico do dashboard foi escolhido estrategicamente para responder a perguntas de negócio específicas e facilitar a interpretação dos dados:
+
+- **📈 Evolução da Margem de Lucro ao Longo do Tempo**  
+  → Gráfico de linha utilizado para exibir a tendência da margem de lucro entre 2011 e 2014, facilitando a análise de oscilações e estabilidade ao longo do tempo.  
+
+- **💰 Valor Médio das Vendas Realizadas (KPI)**  
+  → Indicador KPI em formato de velocímetro configurado com meta de R$350, permitindo avaliar se o desempenho médio das vendas está dentro do esperado.  
+
+- **🌍 Custo Médio de Envio por Mercado (Treemap)**  
+  → Visual em treemap que compara de forma intuitiva os custos médios de envio entre diferentes mercados globais, destacando regiões de maior peso logístico.  
+
+- **🏷️ Distribuição do Lucro Médio por Categoria (Gráfico de Rosca)**  
+  → Exibe a representatividade de cada categoria de produto (Tecnologia, Móveis e Material de Escritório) no lucro médio total.  
+
+- **🚚 Valor de Vendas por Modo de Envio (Gráfico de Cascata)**  
+  → Ilustra como cada modo de envio contribui para o valor total de vendas, evidenciando os impactos positivos e negativos na soma final.  
+
+---
+
 ## 💡 Insights Obtidos  
 
 - 🚚 **Modo de envio** “Classe Padrão” teve o maior valor total de vendas.  
@@ -61,7 +82,7 @@ Analisar o desempenho comercial por meio de indicadores-chave, identificando:
 
 ---
 
-## 🧰 Stack / Ferramentas  
+## 🧰 Stack  
 
 * 💻 **Microsoft Power BI Desktop**  
 * ⚙️ **Power Query**  
@@ -76,5 +97,3 @@ Analisar o desempenho comercial por meio de indicadores-chave, identificando:
 - 📁 **/images** → Capturas de tela do dashboard finalizado.  
 
 ---
-
-
